@@ -1,9 +1,11 @@
----
-title: Implementing a full text search using Spring Boot 2 + Hibernate Search 
-subtitle: A full text search analyzer customization using Java 11, Spring Boot 2 and Hibernate Search
-date: 2020-09-13
-tags: ["java11", "spring-boot", "hibernate-search", "apache-lucene"]
----
+<!--
+{
+  "title": "Implementing a full text search using Spring Boot 2 + Hibernate Search",
+  "subtitle": "A full text search analyzer customization using Java 11, Spring Boot 2 and Hibernate Search",
+  "date": "2020-09-13",
+  "tags": ["java11", "spring-boot", "hibernate-search", "apache-lucene"]
+}
+-->
 
 I needed to implement a full text search mechanism (mainly to be used for auto-complete on clint side) using Java 11 and
 Spring Boot 2. But I did not find a proper working example with these tech stack and wanted to describe it here.
