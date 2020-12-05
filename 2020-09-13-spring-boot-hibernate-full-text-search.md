@@ -4,7 +4,7 @@
   "subtitle": "A full text search analyzer customization using Java 11, Spring Boot 2 and Hibernate Search",
   "date": "2020-09-13",
   "tags": ["java11", "spring-boot", "hibernate-search", "apache-lucene"],
-  "summary": "I needed to implement a full text search mechanism (mainly to be used for auto-complete on clint side) using Java 11 and Spring Boot 2. But I did not find a proper working example with these tech stack and wanted to describe it here."
+  "summary": "I needed to implement a full text search mechanism (mainly to be used for auto-complete on clint side) using Java 11 and Spring Boot 2. But I did not find any proper working examples with these tech stacks and wanted to describe it here. The requirement was for the search to be case-insensitive and to include only the connected keywords."
 }
 -->
 
